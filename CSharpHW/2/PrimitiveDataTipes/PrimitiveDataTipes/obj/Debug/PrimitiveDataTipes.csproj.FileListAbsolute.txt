@@ -1,0 +1,14 @@
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\bin\Debug\PrimitiveDataTipes.exe.config
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\bin\Debug\PrimitiveDataTipes.exe
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\bin\Debug\PrimitiveDataTipes.pdb
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\obj\Debug\PrimitiveDataTipes.csprojResolveAssemblyReference.cache
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\obj\Debug\MainWindow.g.cs
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\obj\Debug\App.g.cs
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\obj\Debug\PrimitiveDataTipes_MarkupCompile.cache
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\obj\Debug\PrimitiveDataTipes_MarkupCompile.lref
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\obj\Debug\MainWindow.baml
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\obj\Debug\PrimitiveDataTipes.g.resources
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\obj\Debug\PrimitiveDataTipes.Properties.Resources.resources
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\obj\Debug\PrimitiveDataTipes.csproj.GenerateResource.Cache
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\obj\Debug\PrimitiveDataTipes.exe
+D:\GitHub\Новая папка\Новая папка\PrimitiveDataTipes\PrimitiveDataTipes\obj\Debug\PrimitiveDataTipes.pdb

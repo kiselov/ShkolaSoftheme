@@ -1,0 +1,11 @@
+c:\Users\Kirill\documents\visual studio 2015\Projects\task10\task11(2)\bin\Debug\task11(2).exe.config
+c:\Users\Kirill\documents\visual studio 2015\Projects\task10\task11(2)\bin\Debug\task11(2).exe
+c:\Users\Kirill\documents\visual studio 2015\Projects\task10\task11(2)\bin\Debug\task11(2).pdb
+c:\Users\Kirill\documents\visual studio 2015\Projects\task10\task11(2)\bin\Debug\task10.exe
+c:\Users\Kirill\documents\visual studio 2015\Projects\task10\task11(2)\bin\Debug\task10.pdb
+c:\Users\Kirill\documents\visual studio 2015\Projects\task10\task11(2)\obj\Debug\task11(2).csprojResolveAssemblyReference.cache
+c:\Users\Kirill\documents\visual studio 2015\Projects\task10\task11(2)\obj\Debug\task11(2).exe
+c:\Users\Kirill\documents\visual studio 2015\Projects\task10\task11(2)\obj\Debug\task11(2).pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\11\task11\task11(2)\bin\Debug\task11(2).exe.config
+D:\GitHub\ShkolaSoftheme\CSharpHW\11\task11\task11(2)\obj\Debug\task11(2).exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\11\task11\task11(2)\obj\Debug\task11(2).pdb

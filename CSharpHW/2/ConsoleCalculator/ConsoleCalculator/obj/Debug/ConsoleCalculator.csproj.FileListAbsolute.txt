@@ -1,0 +1,6 @@
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojResolveAssemblyReference.cache
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb

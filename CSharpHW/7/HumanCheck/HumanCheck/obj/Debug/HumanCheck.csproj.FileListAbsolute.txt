@@ -1,0 +1,6 @@
+c:\users\kirill\documents\visual studio 2015\Projects\HumanCheck\HumanCheck\bin\Debug\HumanCheck.exe.config
+c:\users\kirill\documents\visual studio 2015\Projects\HumanCheck\HumanCheck\bin\Debug\HumanCheck.exe
+c:\users\kirill\documents\visual studio 2015\Projects\HumanCheck\HumanCheck\bin\Debug\HumanCheck.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\HumanCheck\HumanCheck\obj\Debug\HumanCheck.csprojResolveAssemblyReference.cache
+c:\users\kirill\documents\visual studio 2015\Projects\HumanCheck\HumanCheck\obj\Debug\HumanCheck.exe
+c:\users\kirill\documents\visual studio 2015\Projects\HumanCheck\HumanCheck\obj\Debug\HumanCheck.pdb

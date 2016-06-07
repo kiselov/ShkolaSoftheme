@@ -1,0 +1,12 @@
+c:\users\kirill\documents\visual studio 2015\Projects\task10\task10\bin\Debug\task10.exe.config
+c:\users\kirill\documents\visual studio 2015\Projects\task10\task10\bin\Debug\task10.exe
+c:\users\kirill\documents\visual studio 2015\Projects\task10\task10\bin\Debug\task10.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\task10\task10\obj\Debug\task10.exe
+c:\users\kirill\documents\visual studio 2015\Projects\task10\task10\obj\Debug\task10.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\task10\task10\obj\Debug\task11.csprojResolveAssemblyReference.cache
+D:\GitHub\ShkolaSoftheme\CSharpHW\11\task11\task10\bin\Debug\task10.exe.config
+D:\GitHub\ShkolaSoftheme\CSharpHW\11\task11\task10\obj\Debug\task10.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\11\task11\task10\obj\Debug\task10.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\11\task11\task10\bin\Debug\task10.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\11\task11\task10\bin\Debug\task10.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\11\task11\task10\obj\Debug\task11.csprojResolveAssemblyReference.cache

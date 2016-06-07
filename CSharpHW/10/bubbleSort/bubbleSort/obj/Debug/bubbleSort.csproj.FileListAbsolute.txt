@@ -1,0 +1,5 @@
+D:\GitHub\ShkolaSoftheme\CSharpHW\bubbleSort\bubbleSort\bin\Debug\bubbleSort.exe.config
+D:\GitHub\ShkolaSoftheme\CSharpHW\bubbleSort\bubbleSort\bin\Debug\bubbleSort.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\bubbleSort\bubbleSort\bin\Debug\bubbleSort.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\bubbleSort\bubbleSort\obj\Debug\bubbleSort.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\bubbleSort\bubbleSort\obj\Debug\bubbleSort.pdb

@@ -1,0 +1,6 @@
+D:\GitHub\ShkolaSoftheme\CSharpHW\Iterations\Iterations\bin\Debug\Iterations.exe.config
+D:\GitHub\ShkolaSoftheme\CSharpHW\Iterations\Iterations\bin\Debug\Iterations.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\Iterations\Iterations\bin\Debug\Iterations.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\Iterations\Iterations\obj\Debug\Iterations.csprojResolveAssemblyReference.cache
+D:\GitHub\ShkolaSoftheme\CSharpHW\Iterations\Iterations\obj\Debug\Iterations.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\Iterations\Iterations\obj\Debug\Iterations.pdb

@@ -1,0 +1,12 @@
+c:\users\kirill\documents\visual studio 2015\Projects\ConsoleZodiac\ConsoleZodiac\bin\Debug\ConsoleZodiac.exe.config
+c:\users\kirill\documents\visual studio 2015\Projects\ConsoleZodiac\ConsoleZodiac\bin\Debug\ConsoleZodiac.exe
+c:\users\kirill\documents\visual studio 2015\Projects\ConsoleZodiac\ConsoleZodiac\bin\Debug\ConsoleZodiac.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\ConsoleZodiac\ConsoleZodiac\obj\Debug\ConsoleZodiac.csprojResolveAssemblyReference.cache
+c:\users\kirill\documents\visual studio 2015\Projects\ConsoleZodiac\ConsoleZodiac\obj\Debug\ConsoleZodiac.exe
+c:\users\kirill\documents\visual studio 2015\Projects\ConsoleZodiac\ConsoleZodiac\obj\Debug\ConsoleZodiac.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleZodiac\ConsoleZodiac\bin\Debug\ConsoleZodiac.exe.config
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleZodiac\ConsoleZodiac\obj\Debug\ConsoleZodiac.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleZodiac\ConsoleZodiac\obj\Debug\ConsoleZodiac.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleZodiac\ConsoleZodiac\bin\Debug\ConsoleZodiac.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleZodiac\ConsoleZodiac\bin\Debug\ConsoleZodiac.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\ConsoleZodiac\ConsoleZodiac\obj\Debug\ConsoleZodiac.csprojResolveAssemblyReference.cache

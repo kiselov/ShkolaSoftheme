@@ -1,0 +1,9 @@
+D:\GitHub\ShkolaSoftheme\CSharpHW\ArraysSearchIn1001\ArraysSearchIn1001\bin\Debug\ArraysSearchIn1001.exe.config
+D:\GitHub\ShkolaSoftheme\CSharpHW\ArraysSearchIn1001\ArraysSearchIn1001\bin\Debug\ArraysSearchIn1001.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\ArraysSearchIn1001\ArraysSearchIn1001\bin\Debug\ArraysSearchIn1001.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\ArraysSearchIn1001\ArraysSearchIn1001\obj\Debug\ArraysSearchIn1001.csprojResolveAssemblyReference.cache
+D:\GitHub\ShkolaSoftheme\CSharpHW\ArraysSearchIn1001\ArraysSearchIn1001\obj\Debug\ArraysSearchIn1001.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\ArraysSearchIn1001\ArraysSearchIn1001\obj\Debug\ArraysSearchIn1001.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\10\ArraysSearchIn1001\ArraysSearchIn1001\bin\Debug\ArraysSearchIn1001.exe.config
+D:\GitHub\ShkolaSoftheme\CSharpHW\10\ArraysSearchIn1001\ArraysSearchIn1001\obj\Debug\ArraysSearchIn1001.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\10\ArraysSearchIn1001\ArraysSearchIn1001\obj\Debug\ArraysSearchIn1001.pdb

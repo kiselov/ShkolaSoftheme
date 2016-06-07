@@ -1,0 +1,6 @@
+D:\GitHub\ShkolaSoftheme\CSharpHW\machineCreator\machineCreator\bin\Debug\machineCreator.exe.config
+D:\GitHub\ShkolaSoftheme\CSharpHW\machineCreator\machineCreator\bin\Debug\machineCreator.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\machineCreator\machineCreator\bin\Debug\machineCreator.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\machineCreator\machineCreator\obj\Debug\machineCreator.csprojResolveAssemblyReference.cache
+D:\GitHub\ShkolaSoftheme\CSharpHW\machineCreator\machineCreator\obj\Debug\machineCreator.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\machineCreator\machineCreator\obj\Debug\machineCreator.pdb

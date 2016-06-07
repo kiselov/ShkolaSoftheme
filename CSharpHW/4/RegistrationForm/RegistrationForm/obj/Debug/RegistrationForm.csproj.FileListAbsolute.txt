@@ -1,0 +1,14 @@
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csprojResolveAssemblyReference.cache
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\obj\Debug\MainWindow.g.cs
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\obj\Debug\App.g.cs
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm_MarkupCompile.cache
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm_MarkupCompile.lref
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\obj\Debug\MainWindow.baml
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.g.resources
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.Cache
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+D:\GitHub\ShkolaSoftheme\CSharpHW\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb

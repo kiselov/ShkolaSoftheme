@@ -1,0 +1,6 @@
+c:\users\kirill\documents\visual studio 2015\Projects\ShapeCheck\ShapeCheck\bin\Debug\ShapeCheck.exe.config
+c:\users\kirill\documents\visual studio 2015\Projects\ShapeCheck\ShapeCheck\bin\Debug\ShapeCheck.exe
+c:\users\kirill\documents\visual studio 2015\Projects\ShapeCheck\ShapeCheck\bin\Debug\ShapeCheck.pdb
+c:\users\kirill\documents\visual studio 2015\Projects\ShapeCheck\ShapeCheck\obj\Debug\ShapeCheck.csprojResolveAssemblyReference.cache
+c:\users\kirill\documents\visual studio 2015\Projects\ShapeCheck\ShapeCheck\obj\Debug\ShapeCheck.exe
+c:\users\kirill\documents\visual studio 2015\Projects\ShapeCheck\ShapeCheck\obj\Debug\ShapeCheck.pdb

@@ -1,0 +1,45 @@
+﻿<Window x:Class="WpfZodiac.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfZodiac"
+        mc:Ignorable="d"
+        Title="MainWindow" WindowStartupLocation="CenterScreen" MinHeight="350" MinWidth="420" Height="350" Width="420" MaxHeight="350" MaxWidth="420">
+    <Grid  HorizontalAlignment="Left" Width="409">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="26*"/>
+            <ColumnDefinition Width="36*"/>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="44*"/>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="176*"/>
+            <ColumnDefinition Width="30*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="36*"/>
+            <RowDefinition Height="12*"/>
+            <RowDefinition Height="32*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="42*"/>
+            <RowDefinition Height="43*"/>
+            <RowDefinition Height="66*"/>
+            <RowDefinition Height="23*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="year_txbx" TextAlignment="Center"  TextWrapping="Wrap"  Grid.Column="5" Grid.Row="4" FontSize="20"/>
+        <TextBox x:Name="month_txtbx"  TextAlignment="Center" TextWrapping="Wrap"  Grid.Column="3" Grid.Row="4" FontSize="20"/>
+        <Button x:Name="In_btn" Content="Готово" Grid.Column="1" Grid.ColumnSpan="5" Grid.Row="6" Margin="0,1,0,0" Click="In_btn_Click"/>
+        <TextBox x:Name="day_txtbx" TextWrapping="Wrap"   TextAlignment="Center" Grid.Column="1" Grid.Row="4" FontSize="20"/>
+        <Label x:Name="label" HorizontalAlignment="Left" Margin="7,3,0,0" VerticalAlignment="Top" Grid.Column="6" Height="10" Width="10"/>
+        <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="Введите дату вашего рождения" TextAlignment="Center" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="5" FontFamily="Segoe WP Black" FontSize="14"/>
+        <TextBlock x:Name="textBlock1" TextWrapping="Wrap" Text="День" TextAlignment="Center" Grid.Column="1" Grid.Row="3" Margin="0,0,0,1"/>
+        <TextBlock x:Name="textBlock2" TextWrapping="Wrap" Text="Месяц" TextAlignment="Center" Grid.Column="3" Margin="6,0,2,0" Grid.Row="3"/>
+        <TextBlock x:Name="textBlock2_Copy" TextWrapping="Wrap" Text="Год" TextAlignment="Center" Grid.Column="5" Grid.Row="3"/>
+        <Image x:Name="img_zodiac" Grid.RowSpan="4" Grid.Column="7" Margin="1,0,0,0" Grid.Row="3"/>
+        <TextBlock x:Name="textBlock3" TextAlignment="Center" TextWrapping="Wrap" Text="Ваш зодиак" Grid.Column="7" Grid.Row="1" FontSize="20" FontFamily="Segoe WP Black"/>
+        <TextBlock x:Name="date_txblk" TextWrapping="Wrap" TextAlignment="Center" Grid.Column="7" Margin="1,0,0,0" Grid.Row="7"/>
+    </Grid>
+</Window>
